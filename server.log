@@ -1,0 +1,134 @@
+2020-07-30 [15:19:51] [Server thread/WARNING]: Timezone "+07" could not be parsed as a valid timezone from php.ini, falling back to auto-detection
+2020-07-30 [15:20:03] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-30 [15:20:03] [Server thread/INFO]: Loading server properties...
+2020-07-30 [15:20:03] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-30 [15:20:03] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-30 [15:20:03] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-07-30 [15:20:03] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-07-30 [15:20:03] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-30 [15:20:03] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.2
+2020-07-30 [15:20:03] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-07-30 [15:20:03] [Server thread/INFO]: Loading resource packs...
+2020-07-30 [15:20:04] [Server thread/NOTICE]: World "world" not found
+2020-07-30 [15:20:04] [Server thread/INFO]: Preparing world "world"
+2020-07-30 [15:20:04] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2020-07-30 [15:20:04] [Server thread/INFO]: Starting GS4 status listener
+2020-07-30 [15:20:04] [Server thread/INFO]: Setting query port to 19132
+2020-07-30 [15:20:04] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-30 [15:20:04] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-30 [15:20:04] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-30 [15:20:04] [Server thread/INFO]: Done (0.427s)! For help, type "help" or "?"
+2020-07-30 [15:22:23] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-07-30 [15:22:23] [Server thread/INFO]: Unloading world "world"
+2020-07-30 [15:22:23] [Server thread/INFO]: Stopping other threads
+2020-07-30 [15:22:26] [Server thread/WARNING]: Timezone "+07" could not be parsed as a valid timezone from php.ini, falling back to auto-detection
+2020-07-30 [15:22:26] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-30 [15:22:26] [Server thread/INFO]: Loading server properties...
+2020-07-30 [15:22:26] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-30 [15:22:26] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-30 [15:22:26] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-07-30 [15:22:26] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-07-30 [15:22:26] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-30 [15:22:26] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.2
+2020-07-30 [15:22:26] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-07-30 [15:22:27] [Server thread/INFO]: Loading resource packs...
+2020-07-30 [15:22:27] [Server thread/INFO]: Preparing world "world"
+2020-07-30 [15:22:27] [Server thread/INFO]: Starting GS4 status listener
+2020-07-30 [15:22:27] [Server thread/INFO]: Setting query port to 19132
+2020-07-30 [15:22:27] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-30 [15:22:27] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-30 [15:22:27] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-30 [15:22:27] [Server thread/INFO]: Done (0.352s)! For help, type "help" or "?"
+2020-07-30 [15:23:18] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-07-30 [15:23:18] [Server thread/INFO]: Unloading world "world"
+2020-07-30 [15:23:18] [Server thread/INFO]: Stopping other threads
+2020-07-30 [15:23:41] [Server thread/WARNING]: Timezone "+07" could not be parsed as a valid timezone from php.ini, falling back to auto-detection
+2020-07-30 [15:23:41] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-30 [15:23:41] [Server thread/INFO]: Loading server properties...
+2020-07-30 [15:23:41] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-30 [15:23:41] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-30 [15:23:41] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-07-30 [15:23:41] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-07-30 [15:23:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-30 [15:23:41] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.2
+2020-07-30 [15:23:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-07-30 [15:23:42] [Server thread/INFO]: Loading resource packs...
+2020-07-30 [15:23:42] [Server thread/INFO]: Preparing world "world"
+2020-07-30 [15:23:42] [Server thread/INFO]: Starting GS4 status listener
+2020-07-30 [15:23:42] [Server thread/INFO]: Setting query port to 19132
+2020-07-30 [15:23:42] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-30 [15:23:42] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-30 [15:23:42] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-30 [15:23:42] [Server thread/INFO]: Done (0.335s)! For help, type "help" or "?"
+2020-07-30 [15:28:59] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-07-30 [15:28:59] [Server thread/INFO]: Unloading world "world"
+2020-07-30 [15:28:59] [Server thread/INFO]: Stopping other threads
+2020-07-30 [15:29:20] [Server thread/WARNING]: Timezone "+07" could not be parsed as a valid timezone from php.ini, falling back to auto-detection
+2020-07-30 [15:29:20] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-30 [15:29:20] [Server thread/INFO]: Loading server properties...
+2020-07-30 [15:29:20] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-30 [15:29:20] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-30 [15:29:20] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-07-30 [15:29:20] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-07-30 [15:29:20] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-30 [15:29:20] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.2
+2020-07-30 [15:29:20] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-07-30 [15:29:21] [Server thread/INFO]: Loading resource packs...
+2020-07-30 [15:29:21] [Server thread/INFO]: Preparing world "world"
+2020-07-30 [15:29:21] [Server thread/INFO]: Starting GS4 status listener
+2020-07-30 [15:29:21] [Server thread/INFO]: Setting query port to 19132
+2020-07-30 [15:29:21] [Server thread/INFO]: Query running on 0.0.0.0:19132
+2020-07-30 [15:29:21] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-30 [15:29:21] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-30 [15:29:21] [Server thread/INFO]: Done (0.332s)! For help, type "help" or "?"
+2020-07-30 [15:31:05] [Server thread/INFO]: [CONSOLE: Stopping the server]
+2020-07-30 [15:31:05] [Server thread/INFO]: Unloading world "world"
+2020-07-30 [15:31:05] [Server thread/INFO]: Stopping other threads
+2020-07-30 [19:36:18] [Server thread/WARNING]: Timezone "+07" could not be parsed as a valid timezone from php.ini, falling back to auto-detection
+2020-07-30 [19:36:18] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-30 [19:36:18] [Server thread/INFO]: Loading server properties...
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: ErrorException: "file_get_contents(/home/tex/PE/server.properties): failed to open stream: Permission denied" (EXCEPTION) in "src/pocketmine/utils/Config" at line 174
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #0 (): pocketmine\utils\Utils::errorExceptionHandler(integer 2, string[91] file_get_contents(/home/tex/PE/server.properties): failed to open stream: Permis, string[70] phar:///home/tex/PE/PocketMine-MP.phar/src/pocketmine/utils/Config.php, integer 174, array[3])
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #1 src/pocketmine/utils/Config(174): file_get_contents(string[30] /home/tex/PE/server.properties)
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #2 src/pocketmine/utils/Config(122): pocketmine\utils\Config->load(string[30] /home/tex/PE/server.properties, integer 0, array[22])
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #3 src/pocketmine/Server(1357): pocketmine\utils\Config->__construct(string[30] /home/tex/PE/server.properties, integer 0, array[22])
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #4 src/pocketmine/PocketMine(273): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[13] /home/tex/PE/, string[21] /home/tex/PE/plugins/)
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #5 src/pocketmine/PocketMine(304): pocketmine\server()
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #6 (11): require(string[68] phar:///home/tex/PE/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: Error: "Call to a member function translateString() on null" (EXCEPTION) in "src/pocketmine/Server" at line 2063
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #0 src/pocketmine/Server(2044): pocketmine\Server->crashDump()
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #1 src/pocketmine/Server(1590): pocketmine\Server->exceptionHandler(object ErrorException)
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #2 src/pocketmine/PocketMine(273): pocketmine\Server->__construct(object BaseClassLoader, object pocketmine\utils\MainLogger, string[13] /home/tex/PE/, string[21] /home/tex/PE/plugins/)
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #3 src/pocketmine/PocketMine(304): pocketmine\server()
+2020-07-30 [19:36:18] [Server thread/CRITICAL]: #4 (11): require(string[68] phar:///home/tex/PE/PocketMine-MP.phar/src/pocketmine/PocketMine.php)
+2020-07-30 19:41:44 Server|WARNING > Timezone "+07" could not be parsed as a valid timezone from php.ini, falling back to auto-detection
+2020-07-30 19:41:44 Server|INFO > Loading pocketmine.yml...
+2020-07-30 19:41:44 Server|INFO > Loading altay.yml...
+2020-07-30 19:41:44 Server|INFO > Loading server properties...
+2020-07-30 19:41:44 Server|INFO > Selected English (eng) as the base language
+2020-07-30 19:41:44 Server|INFO > Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-30 19:41:44 Server|WARNING > Online mode is disabled. The server will not verify that players are authenticated to Xbox Live.
+2020-07-30 19:41:44 Server|WARNING > While this makes it possible to connect without internet access, it also allows hackers to connect with any username they choose.
+2020-07-30 19:41:44 Server|WARNING > To enable authentication, set "xbox-auth" to "true" in server.properties.
+2020-07-30 19:41:44 Server|INFO > Opening server on 0.0.0.0:19132
+2020-07-30 19:41:44 Server|INFO > This server is running โหมดเอาชีวิตรอด ชิวๆ version 3.14.3+dev
+2020-07-30 19:41:44 Server|INFO > โหมดเอาชีวิตรอด ชิวๆ is distributed under the LGPL License
+2020-07-30 19:41:44 Server|INFO > Loading resource packs...
+2020-07-30 19:41:44 Server|INFO > Preparing level "world"
+2020-07-30 19:41:44 Server|NOTICE > Level "nether" not found
+2020-07-30 19:41:44 Server|INFO > Preparing level "nether"
+2020-07-30 19:41:44 Server|NOTICE > Spawn terrain for level "nether" is being generated in the background
+2020-07-30 19:41:44 Server|NOTICE > Level "end" not found
+2020-07-30 19:41:44 Server|INFO > Preparing level "end"
+2020-07-30 19:41:44 Server|NOTICE > Spawn terrain for level "end" is being generated in the background
+2020-07-30 19:41:44 Server|INFO > Starting GS4 status listener
+2020-07-30 19:41:44 Server|INFO > Setting query port to 19132
+2020-07-30 19:41:44 Server|INFO > Query running on 0.0.0.0:19132
+2020-07-30 19:41:44 Server|INFO > Default game type: ทดสอบ1
+2020-07-30 19:41:44 Server|INFO > pocketmine.server.donate
+2020-07-30 19:41:44 Server|INFO > Done (0.459s)! For help, type "help" or "?"
+2020-07-30 19:42:10 Server|INFO > [CONSOLE: Stopping the server]
+2020-07-30 19:42:10 Server|INFO > Unloading level "world"
+2020-07-30 19:42:10 Server|INFO > Unloading level "nether"
+2020-07-30 19:42:10 Server|INFO > Unloading level "end"
+2020-07-30 19:42:10 Server|INFO > Stopping other threads
